@@ -4,7 +4,8 @@ def introduction(name)
 end
 
 def introduction_with_language(name, language)
-  puts "Hi, my name is #{name} and my favorite programming language is #{language}. "
+  puts "Hi, my name is #{name} and my favorite programming language is #{language}."
+end
 
 # the answers. You should ONLY check those answers if you get totally stuck. The important
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
